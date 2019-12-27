@@ -1,0 +1,19 @@
+/*float:left; skup vrze slike pa se znebimo belega placa pa lahko pol margin uporabimo*/
+
+img {
+	width: 30%;
+	float:left;
+	margin: 1.66%;
+}
+
+p {
+	font-family: Raleway;
+	margin-left: 1.6%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 3px solid #f1f1f1;
+	width: 96.8%
+
+
+}
